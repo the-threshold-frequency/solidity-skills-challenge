@@ -1,1 +1,1 @@
-# solidity-skills-challenge
+# Solidity-skills-challenge
